@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="strSaludo">Hola Mundo!!</string>
+    <string name="strbuttonSaludar">Saludar</string>
+    <string name="intNumeroCambiar">0</string>
+    <string name="strSumar">+</string>
+    <string name="strDespedir">Despedir</string>
+    <string name="StrRestar">-</string>
+    <string name="strReset">C</string>
+    <string name="strIgual">=</string>
+    <string name="strcoma">,</string>
+    <string name="intCero">0</string>
+    <string name="intUno">1</string>
+    <string name="intDos">2</string>
+    <string name="intTres">3</string>
+    <string name="intCuatro">4</string>
+    <string name="intCinco">5</string>
+    <string name="intSeis">6</string>
+    <string name="intSiete">7</string>
+    <string name="intOcho">8</string>
+    <string name="intNueve">9</string>
+    <string name="strMultiplicar">X</string>
+    <string name="strDividir">/</string>
+    <string name="strAlternar">+/-</string>
+    <string name="strBorrarMemoria">MC</string>
+    <string name="strSumarMemoria">M+</string>
+    <string name="strRestarMemoria">M-</string>
+    <string name="strNumeroMemoria">MR</string>
+    <string name="strOperacion">0</string>
+    <string name="strResultado" />
+    <string name="strPorcentaje">%</string>
+
+
+</resources>
