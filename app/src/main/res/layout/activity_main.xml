@@ -261,7 +261,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:onClick="onClick"
-                android:text="@string/strcoma" />
+                android:text="@string/strpunto" />
 
             <Button
                 android:id="@+id/btnIgual"

@@ -8,7 +8,7 @@
     <string name="StrRestar">-</string>
     <string name="strReset">C</string>
     <string name="strIgual">=</string>
-    <string name="strcoma">,</string>
+    <string name="strpunto">.</string>
     <string name="intCero">0</string>
     <string name="intUno">1</string>
     <string name="intDos">2</string>
