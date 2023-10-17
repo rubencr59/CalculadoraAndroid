@@ -47,7 +47,7 @@ public class Calculadora extends AppCompatActivity implements View.OnClickListen
         buttonList = new int[]{
                 R.id.btn0,R.id.btn1, R.id.btn2, R.id.btn3,R.id.btn4, R.id.btn5, R.id.btn6, R.id.btn7, R.id.btn8, R.id.btn9,
                 R.id.btnNegativo, R.id.btnDividir, R.id.btnMultiplicar, R.id.btnSumar, R.id.btnRestar,
-                R.id.btnPorcentaje, R.id.btnComa, R.id.btnIgual, R.id.btnBorrarMemoria,
+                R.id.btnComa, R.id.btnIgual, R.id.btnBorrarMemoria,
                 R.id.btnSumarMemoria, R.id.btnRestarMemoria, R.id.btnNumeroMemoria
         };
     }
